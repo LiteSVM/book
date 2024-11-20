@@ -1,0 +1,6 @@
+[book]
+authors = ["LiteSVM Maintainers"]
+language = "en"
+multilingual = false
+src = "src"
+title = "LiteSVM"
